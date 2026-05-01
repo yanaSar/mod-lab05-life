@@ -1,0 +1,8 @@
+{
+  "BoardWidth": 80,
+  "BoardHeight": 40,
+  "CellSize": 1,
+  "LiveDensity": 0.2,
+  "DelayMs": 100,
+  "MaxGenerations": 1000
+}

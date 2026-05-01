@@ -1,0 +1,17 @@
+{
+  "Columns": 10,
+  "Rows": 10,
+  "Generation": 0,
+  "Cells": [
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, true, true, false, false, false, false, false],
+    [false, false, false, true, true, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false],
+    [false, false, false, false, false, false, false, false, false, false]
+  ]
+}
