@@ -438,7 +438,7 @@ namespace cli_life
                 
                 if (Console.KeyAvailable)
                 {
-                    var key = Console.ReadKey(true);
+                    ConsoleKeyInfo key = Console.ReadKey(true);
                     switch (key.Key)
                     {
                         case ConsoleKey.Spacebar:
